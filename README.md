@@ -1,2 +1,2 @@
-# olar
- primeiro repositorio
+# olar :)
+ primeiro repositorio do curso de git e github
